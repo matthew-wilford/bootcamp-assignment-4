@@ -54,7 +54,7 @@
         "Schuykill River",
         "Susquehanna River",
       ],
-      answer: 4,
+      answer: 3,
     },
     {
       q: "What is Pennsylvania known as?",
